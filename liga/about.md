@@ -22,7 +22,6 @@ Permitida a participação de alunos até o 3º semestre da faculdade.
 - Sênior:
 Esta categoria não tem limites de idade ou de formação. Todos são bem vindos.
 
-
 Para participar, se inscrever, siga os seguintes passos:
 
 1. Inscreva-se no [Codeforces](https://codeforces.com/).
