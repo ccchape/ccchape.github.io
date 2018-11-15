@@ -4,7 +4,7 @@ title: Como Participar?
 permalink: /participar/
 ---
 
-# Como Participar da Liga?
+## Como Participar da Liga?
 
 A Liga Chapecoense de Programação reúne os principais competidores da região do Oeste Catarinense. A liga é realizada através do Codeforces e consiste de diversas Maratonas de Programação. Tem maratona todas as semanas! A participação é gratuita.
 
