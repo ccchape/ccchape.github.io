@@ -32,7 +32,7 @@ Para participar, se inscrever, siga os seguintes passos:
 
 1. Inscreva-se no [Codeforces](https://codeforces.com/).
 2. Escolha sua categoria, de acordo com as regras acima.
-3. Preencha o formulário [neste link](https:///).
+3. Preencha o formulário [neste link](/formulario).
 
 # Participar do ranking
 
