@@ -3,7 +3,7 @@ require 'json'
 
 def values(fake=true)
   sheet = "1GB5UEw9E3xEQoVU__K8QwPF4EbpsAkqUqxfd0LfmJio"
-  token = open("scripts/TOKEN", 'r').read
+  token = open("TOKEN", 'r').read
   range = "Respostas!A%3AG"
   uri = 'https://sheets.googleapis.com/v4/spreadsheets/%s/values/%s?key=%s' % [sheet, range, token]
 
