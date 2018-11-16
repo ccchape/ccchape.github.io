@@ -1,7 +1,7 @@
 require 'open-uri'
 require 'json'
 
-def values(fake=true)
+def values(fake=false)
   sheet = "1GB5UEw9E3xEQoVU__K8QwPF4EbpsAkqUqxfd0LfmJio"
   token = open("TOKEN", 'r').read
   range = "Respostas!A%3AG"
