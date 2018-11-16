@@ -7,4 +7,6 @@ rankfile: arquivorank.json
 ---
 
 
-A categoria prodígio reúne os principais competidores da região.
+A categoria sênior reúne os competidores mais experientes da região.
+
+{% include_relative scripts/senior_table.md %}

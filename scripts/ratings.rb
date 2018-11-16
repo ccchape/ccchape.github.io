@@ -3,6 +3,8 @@ require 'open-uri'
 require 'json'
 
 class User
+  attr_reader :name, :year, :handle, :inst, :telegram, :email
+  
   def initialize(name, year, handle, inst, telegram, email)
     @name = name
     @year = year
