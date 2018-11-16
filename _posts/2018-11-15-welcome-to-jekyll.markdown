@@ -1,25 +1,18 @@
 ---
 layout: post
-title:  "Bem vindo a Liga Chapecoense de Programação!"
+title:  "Aberta a temporada 1.0!"
 date:   2018-11-15 12:44:49 -0200
 categories: blog update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# Já está valendo!
 
-Jekyll also offers powerful support for code snippets:
+Estamos começando a primeira temporada da liga.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Para participar, leia as [regras](/participar) e
+preencha este [formulário](/formulario).
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+O seu ranking será retirado diretamente do Codeforces.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Como ainda estamos planejando os últimos detalhes, não temos ainda uma data
+para o final da liga, mas será no início do primeiro semestre de 2019.
