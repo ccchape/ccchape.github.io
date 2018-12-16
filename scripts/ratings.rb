@@ -24,6 +24,10 @@ class User
   end
 
   def rating
-    @ratings.last
+      if @ratings.any?
+          @ratings.last
+      else
+          0
+      end
   end
 end
