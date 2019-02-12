@@ -7,7 +7,7 @@ rankfile: arquivorank.json
 ---
 
 
-A categoria prodígio reúne os principais competidores que
+A categoria júnior reúne os principais competidores que
 estão no primeiro ano de sua faculdade.
 
 {% include_relative scripts/junior_table.md %}
