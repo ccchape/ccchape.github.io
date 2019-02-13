@@ -18,8 +18,9 @@ end
 users.sort_by! { |u| u.rating }
 users.reverse!
 
-senior = users.select { |u| u.year < CURRENT_YEAR }
-junior = users.select { |u| u.year == CURRENT_YEAR }
+#senior = users.select { |u| u.year < CURRENT_YEAR }
+senior = users
+junior = users.select { |u| u.year >= CURRENT_YEAR }
 prodigio = users.select { |u| u.year > CURRENT_YEAR }
 
 
